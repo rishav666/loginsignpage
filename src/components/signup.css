@@ -1,0 +1,30 @@
+.signUpForm {
+    position: relative;
+    top: 50%;
+    right: 15%;
+    min-height: 200px;
+    background: #FFFFFF;
+    border-radius: 5px; 
+    box-sizing: border-box;
+    width: 150%;
+    height: 160vh;
+    opacity: 0.8;
+}
+.personalHeading{
+    text-align: center;
+}
+.name{
+    display: flex;
+    justify-content: flex-start;
+}
+.fName{
+    width: 50%;
+    margin-left:20px;
+}
+.sName{
+    width:50%;
+}
+.inputFeild{
+    width:90%;
+    height:25px;
+}
